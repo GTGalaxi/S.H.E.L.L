@@ -1,0 +1,13 @@
+adduser
+removeuser
+users
+help
+mathsub
+logoff
+shutdown
+exeopener
+cakesub
+clapthebeat
+shapes
+cellularautomata
+exit

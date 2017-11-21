@@ -1,0 +1,35 @@
+Available Commands:
+    Users - Shows available users
+     * Add User - Adds a new user to the system
+     * Remove User - Removes a user from the system (Not Currently Functional)
+                     Removal of a user must be done manually by an admin.
+                     Contact an admin for help.
+    Help - Shows list of commands
+    Maths - Sub-Section of mathematics programs
+     * Calculator - Built in calculator function
+     * Times Tables - Built in times table reference function
+     * Calculator Printer - Prints out a number, in the calculator style numbers
+     * Squares - Prints the squared numbers up to the input number
+     * Fibonacci's Sequence - Prints out Fibonacci's Sequence up to the nth term
+    Logoff - Logs off current user so a different user can log in.
+    Shutdown - Ends S.H.E.L.L
+     * Currently bugged, when you say no to shutdown it then cannot be shutdown
+       using this function. If you use the shutdown function make sure you say
+       yes.
+    Entertainment
+     * Clap The Beat - A common exercise in music is to count beats whilst clapping
+       on beats divisible by certain numbers. This program helps to visualise this
+       exercise, showing which beats to clap on and how many numbers each beat is
+       divisible by.
+     * Cellular Automata - Cellular automata are very simple computational systems
+       inspired by biology. The state of each cell is either on (a star in our example)
+       or off (a period), and the state of each cell in the future is governed by
+       simple rules about the current state of the cell and its neighbours.
+    Cake Store - Sub-Section of cake related programs
+     * Cakeulator - Determines if you will have enough cake for your guests, and if
+       so, will calculate the leftovers remaining.
+     * Cake Pricing - Calculates the cost of cake per square centimeter.
+    Shapes - Sub-Section for making shapes
+     * Square - Prints a square
+     * Triangle - Prints a triangle
+     * Diamond - Prints a diamond
